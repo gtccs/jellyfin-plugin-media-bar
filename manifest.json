@@ -1,21 +1,21 @@
-{
-  "id": "jellyfin-plugin-media-bar-custom",
-  "name": "Media Bar (Custom)",
-  "description": "Adds a media bar element at the top of the homepage on Jellyfin web",
-  "owner": "gtccs",
-  "category": "Other",
-  "imageUrl": "https://raw.githubusercontent.com/gtccs/jellyfin-plugin-media-bar/main/src/logo.png",
-  "versions": [
+[
     {
-      "version": "2.1.0",
-      "changelist": "Initial custom fork",
-      "targetAbi": "10.10.6.0",
-      "sourceUrl": "https://github.com/gtccs/jellyfin-plugin-media-bar/releases/download/2.1.0/Release.zip",
-      "checksum": "FB9BD97D1A334868262B00D2C004C48F",
-      "timestamp": "2025-02-17T21:46:44",
-      "dependencies": [
-        "5e87cc92-571a-4d8d-8d98-d2d4147f9f90"
-      ]
+        "guid": "b91d449c-70c6-4e13-9199-054ef183fbfb",
+        "name": "Media Bar (Custom)",
+        "description": "Adds a media bar element at the top of the homepage on Jellyfin web",
+        "overview": "A custom fork of the Media Bar plugin, adding extra features.",
+        "owner": "gtccs",
+        "category": "General",
+        "imageUrl": "https://raw.githubusercontent.com/gtccs/jellyfin-plugin-media-bar/main/src/logo.png",
+        "versions": [
+            {
+                "version": "2.1.0",
+                "changelog": "Initial custom fork",
+                "targetAbi": "10.10.6.0",
+                "sourceUrl": "https://github.com/gtccs/jellyfin-plugin-media-bar/releases/download/2.1.0/Release.zip",
+                "checksum": "FB9BD97D1A334868262B00D2C004C48F",
+                "timestamp": "2025-02-17T21:46:44"
+            }
+        ]
     }
-  ]
-}
+]
