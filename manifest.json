@@ -1,7 +1,7 @@
 {
     "version": 1,
-    "id": "jellyfin-plugin-media-bar",
-    "name": "Media Bar",
+    "id": "jellyfin-plugin-media-bar2",
+    "name": "Media Bar2",
     "description": "Adds a media bar element at the top of the homepage on Jellyfin web",
     "owner": "gtccs",
     "category": "General",
