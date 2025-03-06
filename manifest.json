@@ -3,7 +3,7 @@
   "name": "Media Bar (Custom)",
   "description": "Adds a media bar element at the top of the homepage on Jellyfin web",
   "owner": "gtccs",
-  "category": "General",
+  "category": "Other",
   "imageUrl": "https://raw.githubusercontent.com/gtccs/jellyfin-plugin-media-bar/main/src/logo.png",
   "versions": [
     {
