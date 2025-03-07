@@ -9,7 +9,7 @@
         "imageUrl": "https://raw.githubusercontent.com/gtccs/jellyfin-plugin-media-bar/main/src/logo.png",
         "versions": [
             {
-                "version": "2.1.0",
+                "version": "99.99.99",
                 "changelog": "Initial custom fork",
                 "targetAbi": "10.10.6.0",
                 "sourceUrl": "https://github.com/gtccs/jellyfin-plugin-media-bar/releases/download/2.1.0/Release.zip",
