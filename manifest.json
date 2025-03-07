@@ -12,7 +12,7 @@
                 "version": "99.99.99",
                 "changelog": "Initial custom fork",
                 "targetAbi": "10.10.6.0",
-                "sourceUrl": "https://github.com/gtccs/jellyfin-plugin-media-bar/releases/download/2.1.0/Release.zip",
+                "sourceUrl": "https://github.com/gtccs/jellyfin-plugin-media-bar/releases/download/99.99.99/Release.zip",
                 "checksum": "FB9BD97D1A334868262B00D2C004C48F",
                 "timestamp": "2025-02-17T21:46:44"
             }
